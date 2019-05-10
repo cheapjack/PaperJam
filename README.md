@@ -80,6 +80,10 @@ Liz showed us some image of [Rogan Browns](https://roganbrown.com) laser cut han
 ### Sound recording
 Liz's interfaces with [bare conductive boards](https://www.bareconductive.com/shop/touch-board/) with school children to record and playback the bird calls from birds in the bay onto a printed backdrop of the shoreline.
 
+Glenn talked about his work with [Full Of Noises](http://fonfestival.org) and [SoundCamp](http://soundtent.org/) and the [Soundcamping events](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/)
+
+Across the bay you can hear the [Gull Spit Microphone](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/) and another
+[Walney live stream Microphone](http://soundtent.org/south_walney/live_stream.html)
 
 ### Perforated Maps
 Serena has made some really nice perforated maps. Ive been using the [DoESLiverpool Vinyl Cutter](https://github.com/DoESLiverpool/somebody-should/wiki/RolandVinylCutter) to cut into maps so will try seeing how to do that.
