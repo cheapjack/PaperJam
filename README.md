@@ -113,7 +113,8 @@ Serena has made some really nice perforated maps. Ive been using the [DoESLiverp
 
 My friend Sean had idea of getting maps of changing coastlines and allow people to tear of the coast that might be disappearing.
 
-### Polychronic objects
+### Polychronic Objects
+
 
 Liz talked about artist Jane Norris' work on making objects that fuse materials together.
 
