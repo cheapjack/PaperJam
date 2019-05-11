@@ -4,7 +4,7 @@ Papercrafting maps & stories for non-humans, knitting microbiology and biodivers
 
 <img src="images/paperjam.jpg" width="800">
 
-A group of artists, biodiversity researchers designers  and paper enthusiasts will be meeting monthly to jam and experiment on paper through crumpled situated storied folding human and non-humans together around Morecambe Bay.
+A group of artists, biodiversity researchers designers  and paper enthusiasts will be meeting bi-monthly to jam and experiment on paper through crumpled situated storied folding human and non-humans together around Morecambe Bay.
 
 Date|Venue|people|focus
 ---|---|---|---|
@@ -34,7 +34,6 @@ The next meeting will have a more defined focus hosted by one of the group in a 
 
 ### Antibiotic Resistant discs
 
-https://domesticscience.org.uk/InF.html
 
 Ross also wondered about the antibiotic resistant discs used in Microbiology assay techniques for multiple tests with cultured bacteria. These are used in the Division of BioMedical Life Sciences at Lancaster University and play a part in Dr Rod Dillon and Dr Jackie Parry's [MircoMart](https://github.com/clubbiomed/MicroMart) teaching module.
 
@@ -92,20 +91,11 @@ Ross is exploring DIY practices in microfluidics. He's been looking at a brillia
 
 These two posts contain alot of stuff to work on and Ross is using alot of the techniques in his research on kit-culture in bioscience.
 
-### Paper virus Sculptures
+### Paper Virus Sculptures
 
 <img src="images/papervirus.jpg" width="300">
 
 Liz showed us some image of [Rogan Browns](https://roganbrown.com) laser cut hand assembled images inspired by the microbiological
-
-### Sound recording
-
-Liz's interfaces with [bare conductive boards](https://www.bareconductive.com/shop/touch-board/) with school children to record and playback the bird calls from birds in the bay onto a printed backdrop of the shoreline.
-
-Glenn talked about his work with [Full Of Noises](http://fonfestival.org) and [SoundCamp](http://soundtent.org/) and the [Soundcamping events](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/)
-
-Across the bay you can hear the [Gull Spit Microphone](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/) and another
-[Walney live stream Microphone](http://soundtent.org/south_walney/live_stream.html)
 
 ### Perforated Maps
 
@@ -114,7 +104,6 @@ Serena has made some really nice perforated maps. Ive been using the [DoESLiverp
 My friend Sean had idea of getting maps of changing coastlines and allow people to tear of the coast that might be disappearing.
 
 ### Polychronic Objects
-
 
 Liz talked about artist Jane Norris' work on making objects that fuse materials together.
 
@@ -129,6 +118,15 @@ With Ross's social science / Science and Technology Studies hat on assembling th
 They are like the *"found formats"* that Hwa Young thinks about and are part of the rationale for [Domestic Science](https://domesticscience.org.uk) using text adventure games or board games to think about something.
 
 Ross is using the idea of kits as not just like *Susan Leigh Star*'s [Boundary Objects](https://en.wikipedia.org/wiki/Boundary_object) but as Boudary methods or practices. Its something you can interact with/ or a thign to 'do' across disciplines and backgrounds. These arent neutral things though, in making say a biodiversity papercrafted map we have political intent and in what things we choose to look at situate them somewhere, or in trying to educate we make assumptions about what people know or care about who may come into contact with our paper things.
+
+### Sound recording
+
+Liz's interfaces with [bare conductive boards](https://www.bareconductive.com/shop/touch-board/) with school children to record and playback the bird calls from birds in the bay onto a printed backdrop of the shoreline.
+
+Glenn talked about his work with [Full Of Noises](http://fonfestival.org) and [SoundCamp](http://soundtent.org/) and the [Soundcamping events](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/)
+
+Across the bay you can hear the [Gull Spit Microphone](http://fonfestival.org/event/soundcamp-south-walney-5-6-05-18/) and another
+[Walney live stream Microphone](http://soundtent.org/south_walney/live_stream.html)
 
 ### Water soluble Maps
 
