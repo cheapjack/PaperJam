@@ -34,7 +34,6 @@ The next meeting will have a more defined focus hosted by one of the group in a 
 
 ### Antibiotic Resistant discs
 
-
 Ross also wondered about the antibiotic resistant discs used in Microbiology assay techniques for multiple tests with cultured bacteria. These are used in the Division of BioMedical Life Sciences at Lancaster University and play a part in Dr Rod Dillon and Dr Jackie Parry's [MircoMart](https://github.com/clubbiomed/MicroMart) teaching module.
 
 ### Assemblage
@@ -79,7 +78,7 @@ Claire showed us how to use slightly waxy paper that could be intensley crumpled
 Simple writing and drawing into soft thick paper stock makes a nice feel to paper
 
 ### Folding 
-
+ * [Cut Fold Templates](http://cutfoldtemplates.com) *currently down*
  * [Folding Techniques](http://foldingtechniques.com/folding-techniques)
  * [Folding Bone Tool Glenn uses](https://www.ebay.co.uk/itm/Bone-Folder-Tool-For-Scoring-Folding-Creasing-Paper-Leather-Craft-Plastic-GB/202605486422)
 
