@@ -72,9 +72,16 @@ Embedding inks, seeds or Lichen like living things in paper could use this proce
 
 Claire showed us how to use slightly waxy paper that could be intensley crumpled into sculptural shapes
 
+ * [Origami Tessalation Folding](http://www.origamitessellations.com/2013/07/origami-crumpling-instructions/)
+
 ### Embossing
 
 Simple writing and drawing into soft thick paper stock makes a nice feel to paper
+
+### Folding 
+
+ * [Folding Techniques](http://foldingtechniques.com/folding-techniques)
+ * [Folding Bone Tool Glenn uses](https://www.ebay.co.uk/itm/Bone-Folder-Tool-For-Scoring-Folding-Creasing-Paper-Leather-Craft-Plastic-GB/202605486422)
 
 ### Lichens in Paper
 
